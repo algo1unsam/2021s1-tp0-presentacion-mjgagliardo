@@ -3,6 +3,7 @@
 ## Estudiante: _MATIAS GAGLIARDO_
 
 ------
+![yo](https://github.com/algo1unsam/2021s1-tp0-presentacion-mjgagliardo/blob/master/20180704_123222.jpg?raw=true)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
